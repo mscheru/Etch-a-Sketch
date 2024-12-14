@@ -1,0 +1,1 @@
+This is my Etch-a-Sketch project, meant to demonstrate basic DOM manipulation skills in JS. Much like the title suggest, this webpage will allow you to draw on a grid, clear the grid, and draw once more :)
