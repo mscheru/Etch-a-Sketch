@@ -27,3 +27,11 @@ header {
   aspect-ratio: 1;
   padding-top: 10px;
 }
+
+.square {
+  box-sizing: border-box;
+}
+
+button {
+  padding: 4px;
+}
